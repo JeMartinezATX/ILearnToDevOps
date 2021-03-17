@@ -22,8 +22,8 @@ title: I Learn to DevOps
 email: ilearntodevops@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documenting my learning journey with cloud computing and automation
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ilearntodevops" # the subpath of your site, e.g. /blog
+url: "jemartinezatx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ilearntodevops
 github_username:  jemartinezatx
 
